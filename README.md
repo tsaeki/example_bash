@@ -3,7 +3,7 @@
 
 ## Shell Parameter Expansion
 - 3.5.3 Shell Parameter Expansion
-https://tiswww.case.edu/php/chet/bash/bashref.html#Shell-Parameter-Expansion 
+  - https://tiswww.case.edu/php/chet/bash/bashref.html#Shell-Parameter-Expansion 
 
 ### Run Example01
 ```
